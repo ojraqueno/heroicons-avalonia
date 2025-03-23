@@ -44,7 +44,7 @@ xmlns:heroIcons="clr-namespace:HeroIconsAvalonia.Controls;assembly=HeroIconsAval
 By default, the HeroIcon color is black and the icon kind is outline, whe can change these properties if needed
 
 ```xaml
-<heroIcons:HeroIcon Foreground="White" Type="Pencil" Foreground="White" Kind="Solid" />
+<heroIcons:HeroIcon Foreground="White" Type="Pencil" Kind="Solid" />
 ```
 There are also 2 default sizes for the icon if you don't want to set the width and height,
 the `Min` property switches between 24px and 20px respectively
